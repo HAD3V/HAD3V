@@ -1,5 +1,3 @@
-"}
-
 # 👾 HAD3V
 
 <p align="center">
@@ -140,5 +138,3 @@
 ⭐ If you like my work, consider following me!
 
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:6C5CE7&height=120&section=footer
