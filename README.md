@@ -1,140 +1,298 @@
-# 👾 HAD3V
+<!-- ☁️ welcome -->
 
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00F5A0&height=200&section=header&text=HAD3V&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:e0c3fc,25:c2b0e2,50:a3d8f4,75:b5ead7,100:ffdfd3&text=HAD3V&fontSize=70&fontColor=4a4a4a&fontAlignY=38&desc=lead%20full%20stack%20dev%20·%20web%20performance%20nerd%20·%20coffee%20powered&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
 
-</p>
+<img src="https://i.pinimg.com/originals/1e/a6/66/1ea66601f1ee09b578c40feee6ecd953.gif" width="100%" height="300px"/>
 
-<p align="center">
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Building+Cool+Things;Always+Learning&center=true&width=600&height=45">
+<br/>
 
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=4000&pause=2000&color=9B8EC4&center=true&vCenter=true&width=520&lines=brewing+coffee+%E2%98%95;optimizing+page+speed+scores+%F0%9F%9A%80;shipping+features+to+production+%F0%9F%8C%BF;running+a%2Fb+tests+with+kameleoon+%F0%9F%94%AC;listening+to+lofi+beats+%F0%9F%8E%B5;leading+the+dev+team+%F0%9F%8C%99" alt="Typing SVG" />
+</div>
 
----
+<br/>
 
-# 🚀 About Me
+<!-- ─── about ─── -->
 
-💻 Developer who loves building cool tools  
-🧠 Passionate about solving complex problems  
-🌍 Interested in AI, Web, Automation and Open Source  
-⚡ Always learning and experimenting with new tech  
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
----
+<br/>
 
-# 🧠 Tech Stack
+<div align="center">
+<table>
+<tr>
+<td>
 
-### 🎨 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
-</p>
+```yaml
+name: HAD3V
+role: lead full stack developer
+focus: e-commerce · web performance · feature development
+day-to-day:
+  - building & shipping new shop features
+  - optimizing core web vitals & page speed
+  - leading the dev team
+  - designing ui/ux & running a/b tests with kameleoon
+  - server management & deployments
+tools: vs code · webstorm
+vibe: lofi beats & mass amounts of coffee ☕
+```
 
-### ⚙️ Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,express,java,cs,dotnet" />
-</p>
+</td>
+</tr>
+</table>
+</div>
 
-### 🗄 Databases & Cloud
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis" />
-</p>
+<br/>
 
-### 🛠 Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,linux" />
-</p>
+<!-- ─── what i do ─── -->
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-# 📊 GitHub Statistics
+<br/>
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAD3V&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/-what%20i%20do%20all%20day-ffdfd3?style=flat-square" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAD3V&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/><br/>
 
-</p>
+<table>
+<tr>
+<td align="center" width="150">
+  <img src="https://cdn.simpleicons.org/dotnet/c2b0e2" width="40" /><br/>
+  <sub><b>.NET / Razor</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="https://cdn.simpleicons.org/blazor/c2b0e2" width="40" /><br/>
+  <sub><b>CSHTML</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="https://cdn.simpleicons.org/javascript/c2b0e2" width="40" /><br/>
+  <sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="https://cdn.simpleicons.org/css/c2b0e2" width="40" /><br/>
+  <sub><b>CSS</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="https://cdn.simpleicons.org/html5/c2b0e2" width="40" /><br/>
+  <sub><b>HTML</b></sub>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-# 🔥 GitHub Streak
+<img src="https://img.shields.io/badge/-tools%20%26%20workflow-b5ead7?style=flat-square" />
 
-<p align="center">
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=HAD3V&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
+<td align="center" width="130">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="40" /><br/>
+  <sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.simpleicons.org/webstorm/a3d8f4" width="36" /><br/>
+  <sub><b>WebStorm</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.simpleicons.org/git/a3d8f4" width="36" /><br/>
+  <sub><b>Git</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.simpleicons.org/github/a3d8f4" width="36" /><br/>
+  <sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.simpleicons.org/figma/a3d8f4" width="36" /><br/>
+  <sub><b>Figma</b></sub>
+</td>
+</tr>
+</table>
 
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/-performance%20%26%20testing-e0c3fc?style=flat-square" />
 
-# 📈 Activity Graph
+<br/><br/>
 
-<p align="center">
+<table>
+<tr>
+<td align="center" width="150">
+  <img src="https://cdn.simpleicons.org/lighthouse/c2b0e2" width="36" /><br/>
+  <sub><b>Lighthouse</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="https://cdn.simpleicons.org/pagespeedinsights/c2b0e2" width="36" /><br/>
+  <sub><b>PageSpeed</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="https://cdn.simpleicons.org/googleanalytics/c2b0e2" width="36" /><br/>
+  <sub><b>Analytics</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="https://img.shields.io/badge/🦎-c2b0e2?style=flat-square" height="36" /><br/>
+  <sub><b>Kameleoon</b></sub>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAD3V&theme=tokyo-night"/>
+</div>
 
-</p>
+<br/>
 
----
+<!-- ─── what drives me ─── -->
 
-# 🐍 Contribution Snake
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-<p align="center">
+<br/>
 
-<img src="https://raw.githubusercontent.com/HAD3V/HAD3V/output/github-contribution-grid-snake.svg">
+<div align="center">
 
-</p>
+| | |
+|:---:|:---|
+| 🚀 | obsessed with web performance & core web vitals |
+| 🛒 | building e-commerce features that users actually love |
+| 🎨 | designing, prototyping & a/b testing with kameleoon |
+| 🔒 | most of my work lives in private repos — company stuff |
+| 🧑‍💻 | leading dev team — code reviews, architecture, mentoring |
+| 🎧 | probably listening to lofi beats right now |
+| ☕ | mass amounts of coffee are non-negotiable |
 
----
+</div>
 
-# 🏆 GitHub Trophies
+<br/>
 
-<p align="center">
+<!-- ─── a typical day ─── -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=HAD3V&theme=tokyonight&no-frame=true&margin-w=15"/>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-</p>
+<br/>
 
----
+<div align="center">
 
-# 🌐 Connect With Me
+```
+  ┌──────────────────────────────────────────┐
+  │          ☁️  a typical day  ☁️            │
+  ├──────────────────────────────────────────┤
+  │                                          │
+  │  09:00  ☕  coffee + standup              │
+  │  09:30  🧑‍💻  code review & pr merges      │
+  │  10:00  🛠️  feature development           │
+  │  12:00  🍜  lunch break + lofi            │
+  │  13:00  🎨  ui/ux & webdesign             │
+  │  14:30  🚀  lighthouse & pagespeed runs   │
+  │  16:00  🦎  kameleoon a/b test analysis   │
+  │  17:00  📦  deploy to production          │
+  │  17:30  ☕  more coffee, obviously         │
+  │                                          │
+  └──────────────────────────────────────────┘
+```
 
-<p align="center">
+</div>
 
-<a href="https://github.com/HAD3V">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<br/>
+
+<!-- ─── spotify now playing ─── -->
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
+
+#### 🎧 now playing
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=xahndjiidf8gbzsh76h380j2r&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xahndjiidf8gbzsh76h380j2r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white">
+<br/><br/>
+
+<a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">
+  <img src="https://img.shields.io/badge/nothing%20playing%3F-lofi%20hip%20hop%20radio-a3d8f4?style=for-the-badge&logo=youtube&logoColor=white&labelColor=c2b0e2" />
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</div>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<br/>
 
-</p>
+<!-- ─── quote ─── -->
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-# 👀 Profile Visitors
+<br/>
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=HAD3V&label=Profile%20views&color=6C5CE7&style=flat"/>
+> *"perfection is achieved not when there is nothing more to add,*
+> *but when there is nothing left to take away."*
+> — antoine de saint-exupéry
 
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/repos-mostly%20private%20🔒-e0c3fc?style=flat-square&labelColor=ffdfd3" />
+<img src="https://img.shields.io/badge/role-lead%20full%20stack%20dev-b5ead7?style=flat-square&labelColor=ffdfd3" />
+<img src="https://img.shields.io/badge/status-shipping%20features-a3d8f4?style=flat-square&labelColor=ffdfd3" />
+<img src="https://img.shields.io/badge/🦎-kameleoon%20certified-e0c3fc?style=flat-square&labelColor=ffdfd3" />
+<img src="https://komarev.com/ghpvc/?username=HAD3V&style=flat-square&color=e0c3fc&label=visitors" />
 
-<p align="center">
+</div>
 
-⭐ If you like my work, consider following me!
+<br/>
 
-</p>
+<!-- ─── connect ─── -->
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
+
+#### ✉️ say hi
+
+<a href="https://github.com/HAD3V"><img src="https://img.shields.io/badge/github-HAD3V-c2b0e2?style=flat-square&logo=github&logoColor=4a4a4a&labelColor=ffdfd3" /></a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/HAD3V"><img src="https://img.shields.io/badge/twitter-HAD3V-a3d8f4?style=flat-square&logo=x&logoColor=4a4a4a&labelColor=ffdfd3" /></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/HAD3V"><img src="https://img.shields.io/badge/linkedin-HAD3V-b5ead7?style=flat-square&logo=linkedin&logoColor=4a4a4a&labelColor=ffdfd3" /></a>
+&nbsp;&nbsp;
+<a href="mailto:hi@had3v.dev"><img src="https://img.shields.io/badge/email-hi@had3v.dev-ffdfd3?style=flat-square&logo=gmail&logoColor=4a4a4a&labelColor=e0c3fc" /></a>
+
+</div>
+
+<br/><br/>
+
+<!-- ─── footer ─── -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ffdfd3,25:b5ead7,50:a3d8f4,75:c2b0e2,100:e0c3fc&section=footer" width="100%" />
+
+</div>
+
+<!--
+  ☁️ thanks for stopping by
+  🎵 go put on some lofi beats
+  ☕ and ship something beautiful
+-->
