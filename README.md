@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:e0c3fc,25:c2b0e2,50:a3d8f4,75:b5ead7,100:ffdfd3&text=HAD3V&fontSize=70&fontColor=4a4a4a&fontAlignY=38&desc=lead%20full%20stack%20dev%20·%20web%20performance%20nerd%20·%20coffee%20powered&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
 
-<img src="https://i.pinimg.com/originals/1e/a6/66/1ea66601f1ee09b578c40feee6ecd953.gif" width="100%" height="300px"/>
+<img src="https://i.pinimg.com/originals/1e/a6/66/1ea66601f1ee09b578c40feee6ecd953.gif" width="100%" height="400px"/>
 
 </div>
 
@@ -226,30 +226,6 @@ vibe: lofi beats & mass amounts of coffee ☕
 </div>
 
 <br/>
-
-<!-- ─── connect ─── -->
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<br/>
-
-<div align="center">
-
-#### ✉️ say hi
-
-<a href="https://github.com/HAD3V"><img src="https://img.shields.io/badge/github-HAD3V-c2b0e2?style=flat-square&logo=github&logoColor=4a4a4a&labelColor=ffdfd3" /></a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/HAD3V"><img src="https://img.shields.io/badge/twitter-HAD3V-a3d8f4?style=flat-square&logo=x&logoColor=4a4a4a&labelColor=ffdfd3" /></a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/HAD3V"><img src="https://img.shields.io/badge/linkedin-HAD3V-b5ead7?style=flat-square&logo=linkedin&logoColor=4a4a4a&labelColor=ffdfd3" /></a>
-&nbsp;&nbsp;
-<a href="mailto:hi@had3v.dev"><img src="https://img.shields.io/badge/email-hi@had3v.dev-ffdfd3?style=flat-square&logo=gmail&logoColor=4a4a4a&labelColor=e0c3fc" /></a>
-
-</div>
-
-<br/><br/>
 
 <!-- ─── footer ─── -->
 
