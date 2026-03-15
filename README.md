@@ -175,38 +175,6 @@ vibe: lofi beats & mass amounts of coffee ☕
 
 <br/>
 
-<!-- ─── a typical day ─── -->
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-  ┌──────────────────────────────────────────┐
-  │          ☁️  a typical day  ☁️            │
-  ├──────────────────────────────────────────┤
-  │                                          │
-  │  09:00  ☕  coffee + standup              │
-  │  09:30  🧑‍💻  code review & pr merges      │
-  │  10:00  🛠️  feature development           │
-  │  12:00  🍜  lunch break + lofi            │
-  │  13:00  🎨  ui/ux & webdesign             │
-  │  14:30  🚀  lighthouse & pagespeed runs   │
-  │  16:00  🦎  kameleoon a/b test analysis   │
-  │  17:00  📦  deploy to production          │
-  │  17:30  ☕  more coffee, obviously         │
-  │                                          │
-  └──────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
 <!-- ─── spotify now playing ─── -->
 
 <div align="center">
